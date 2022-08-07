@@ -3,7 +3,7 @@ A way to securely send encrypted data to all machines "listening" for it. Writte
 
 The server folder contains the necessary skeleton for creating a dumb server that only relays incoming packets to all connections
 
-[**Blog post**](https://blog.l-m.dev/C-is-how-old-now-Learning-the-V-programming-language-90f5f9e9c22f461ea88667ab3371f676)
+[**Blog post**](https://blog.l-m.dev/posts/learning_v/)
 
 ## Help message
 
